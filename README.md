@@ -1,4 +1,9 @@
-Hi. I'm Runa. I'm lerning C,JavaScript and C#.
 
+Hi. I'm Runa. I'm lerning C,JavaScript and C#. 
+
+___
+ 
 [![Runa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runa-chama&theme=vue-dark&show_icons=true)](https://github.com/Runa-chama/github-readme-stats)
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Runa-chama&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Runa-chama/github-readme-stats)
+___
