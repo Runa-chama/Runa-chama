@@ -1,4 +1,4 @@
-Hi. I'm Runa. I started programming by learning C#. I'm learning C,JavaScript now. I'm interested in Python a little.
+Hi. I'm Runa. I started programming by learning C#. I'm learning C,JavaScript now. I'm a little interested in Python.
 
 ___
  
