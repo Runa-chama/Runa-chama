@@ -2,14 +2,8 @@
 
 ___
 
-<table>
- <th>
- <img src="https://github-readme-stats.vercel.app/api?username=Runa-chama&theme=vue-dark&show_icons=true">
- </th>
- <th>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Runa-chama&theme=vue-dark&show_icons=true&layout=compact" height"100%">
- </th>
-</table>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Runa-chama&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runa-chama&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
